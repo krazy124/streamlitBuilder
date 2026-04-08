@@ -6,7 +6,7 @@ st.set_page_config(page_title="Streamlit App Builder v3", layout="wide")
 
 
 # =========================================================
-# HELPERS This is a change  
+# HELPERS This is a change
 # =========================================================
 def make_safe_variable_name(text: str) -> str:
     text = text.strip().lower()
